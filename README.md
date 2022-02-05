@@ -1,1 +1,1 @@
-i <3 discord-py-interactions (when it isnt bothering me lmao)
+i <3 interactions.py (when it isnt bothering me lmao)
