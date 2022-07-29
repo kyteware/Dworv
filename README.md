@@ -1,5 +1,5 @@
 ## Hi 👋
-- ✏️ I'm maintain [Persistence](https://github.com/interactions-py/persistence), an extension for `interactions.py`.
+- ✏️ I'm maintaining [Persistence](https://github.com/interactions-py/persistence), a cool extension for `interactions.py`.
 - 🧠 I've written tons of Python and am interesting in Rust.
 - 💬 You can reach me at dwarvyt@gmail.com or `Dworv#0001` on Discord.
 
