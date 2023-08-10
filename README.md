@@ -1,6 +1,7 @@
 ## Hi 👋
 
-- 🧠 I've written tons of Rust and Python, but I also use Julia, Bash and Java.
+- 🧠 I mostly work on operating systems and graphics/raytracing, but sometimes I mix in some games/gui.
+- 📖 I've written tons of Rust and Python, but I also use Julia, Bash, Java and C.
 - ✏️ I tend to switch between projects a lot, you can see what I'm working on in [my repos](https://github.com/Dworv?tab=repositories).
 - 💬 You can reach at `Dworv#0001` on Discord.
 
